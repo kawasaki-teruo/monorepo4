@@ -1,0 +1,7 @@
+{
+  "name": "@cm-kawasaki-teruo/monorepo40",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ]
+}
